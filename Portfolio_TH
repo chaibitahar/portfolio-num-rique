@@ -1,1 +1,17 @@
+Mise en place de l'architecture backend avec la création de six entités et de leurs modèles de données respectifs.
+Ce commit inclut la définition des schémas pour les produits, les rôles et les utilisateurs, ainsi que la configuration des routes nécessaires.
 
+
+ Technologies Utilisées
+
+Backend : Node.js et Express.js.
+
+
+Base de données : MySQL avec l'ORM Sequelize.
+
+
+
+Frontend :  EJS et Vue.js 
+
+
+on utiliser le javascript
